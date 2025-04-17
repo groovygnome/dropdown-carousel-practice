@@ -1,0 +1,29 @@
+.drop-content{
+    display: none;
+    flex-direction: column;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    display: none;
+}
+
+#pic1{
+    display: inline;
+}
+
+.frame{
+    width: 300px;
+    height: 300px;
+}
+
+.img-carousel{
+    width: 300px;
+    display:flex;
+    flex-direction:column;
+}
+
+.carousel-btns{
+    align-self: center;
+}
